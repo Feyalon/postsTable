@@ -1,1 +1,12 @@
 
+.content{
+    display: flex;
+}
+.pagination-button{
+    margin-left: 10px;
+
+
+}
+.pagination-button button{
+    width: 50px;
+}
